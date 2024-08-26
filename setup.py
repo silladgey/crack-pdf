@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
     setup(
         name="crack-pdf",
-        version="0.1.0",
+        version="0.1.1",
         author="Richard Szilagyi",
         author_email="szprichard@proton.me",
         description="A tool to crack password-protected PDFs",
